@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://g.recordit.co/jNKd93mQq1.gif' title='Video Walkthrough' alt='Video Walkthrough' />
+![Demo Gif](https://github.com/TranHVLoc/CodePath_Web102_prework/blob/main/jNKd93mQq1.gif)
 
 GIF created with **RecordIt**
 
