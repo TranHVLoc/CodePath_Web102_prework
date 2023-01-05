@@ -1,40 +1,36 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Gaming*
 
-Submitted by: **Your Name Here**
+Submitted by: **Loc Tran**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Gaming** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [X] The introduction section explains the background of the company and how many games remain unfunded.
+* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] The buttons color change on hovering for a better interactiong with user.
+* [X] Any game card zooms in a little bit on hovering to mark which game user is pointing to.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/jNKd93mQq1.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with **RecordIt**
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The biggest challenge while building the app is using `for loop` to display the game card when I tried to use `for-each` loop initially but it didn't work. So I switched to use `for` loop instead using the index and it finally worked. Luckily `index.js` has been filled with comments so I can follow the instruction easily without much effort to solve the problem. Another challenge is pushing the work on GitHub as I was hindered from submitting by an *authentification* problem as it required me to enter my username and password. After a while doing the research I finally made it to publicing the files on GitHub.
 
 ## License
 
