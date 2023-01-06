@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Demo Gif](https://github.com/TranHVLoc/CodePath_Web102_prework/blob/main/jNKd93mQq1.gif)
+![Demo Gif](https://github.com/TranHVLoc/CodePath_Web102_prework/blob/main/demo.gif)
 
 GIF created with **RecordIt**
 
